@@ -11,6 +11,7 @@
 - Wireless: Atheros AR9485 Wireless Adapter
 - Bluetooth : Atheros Embedded Bluetooth Adapter
 - Ethernet : Realtek RTL8111
+- Synaptics PS/2 TrackPad
 - VGA:
   - Intel HD Graphics 4000(Onboard)
 - Audio Codec : Realtek ALC269
@@ -27,11 +28,13 @@
  - Ethernet + Wireless (No handoff because of bluetooth not working yet)
  - USB 3.0 Ports
  - Shutdown & Restart
+ - Trackpad (3-finger-gestures work just like Real Mac)
  - USB (without 15 Port Limit Patch)
- - Sounds (Output. Native AppleHDA)
+ - Audio (Output. Native AppleHDA)
  - Laptop Power Management
 
 # What isn't works (yet)
+ - Battery Read-outs
  - USB 2.0 Ports
  - DRM (iGPU-only systems will NEVER works)
  - Input (Microphone)
