@@ -32,6 +32,7 @@
  - USB (without 15 Port Limit Patch)
  - Audio (Output. Native AppleHDA)
  - Laptop Power Management
+ - FileVault 2 (macOS built-in drive encryption)
 
 # What isn't works (yet)
  - Battery Read-outs
