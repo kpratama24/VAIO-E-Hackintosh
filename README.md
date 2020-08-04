@@ -24,7 +24,7 @@
 
 # What works
  - iMessage, Facetime, App Store
- - Ethernet + Wireless + Bluetooth (No handoff because of bluetooth not working yet)
+ - Ethernet + Wireless (No handoff because of bluetooth not working yet)
  - USB 3.0 Ports
  - Shutdown & Restart
  - USB (without 15 Port Limit Patch)
