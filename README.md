@@ -1,10 +1,11 @@
-# VAIO E Series (SVE14122CVW) with OpenCore Bootloader - High Sierra (10.13.6)
-![SystemInfo](https://raw.githubusercontent.com/kpratama24/VAIO-E-Hackintosh/master/Screenshot/HighSierra/Overview.png)
+# VAIO E Series (SVE14122CVW) with OpenCore Bootloader - Mojave (10.14.6)
+![SystemInfo](https://raw.githubusercontent.com/kpratama24/VAIO-E-Hackintosh/master/Screenshot/Mojave/Overview.png)
 
 # Hardware
 
 - CPU: Intel(R) CPU Core i3-3110M
 - Mainboard: SONY VAIO (OEM)
+- BIOS: Aptio
 - RAM: 6GB DDR3 
 - SSD:
     - KINGSTON SA400S37/120GB
