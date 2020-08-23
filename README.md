@@ -36,6 +36,7 @@
  - FileVault 2 (macOS built-in drive encryption)
 
 # What isn't works (yet)
+ - Audio after sleep (need CodecCommander fix approach)
  - Battery Read-outs
  - USB 2.0 Ports
  - DRM (iGPU-only systems will NEVER works)
